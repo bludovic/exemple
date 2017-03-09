@@ -1,0 +1,21 @@
+body {
+    background-color:#ffe5e5;
+}
+
+#chat-main {
+    margin:5px;
+    min-height:350px;
+    border:1px dotted #000;
+}
+
+#chat-form {
+    margin:5px;
+    border:1px dotted #000;
+}
+#chat-form  input[type="text"] {
+    width:90%;
+}
+
+#chat-form input[type="submit"] {
+    width:10%;
+}
